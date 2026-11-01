@@ -72,3 +72,12 @@ npm run dev
 - Refactor duplicated invoice filtering logic between list and reports.
 - Investigate why paused subscriptions still generate invoices.
 - Add a safer idempotency rule for payment attempts.
+
+
+## Current limitations and future development
+
+This is a personal development prototype, not a production deployment. Repositories currently use in-memory storage. Planned enhancements and estimated work are documented in [ROADMAP.md](ROADMAP.md). No production users or deployments are claimed.
+
+## License
+
+MIT; see [LICENSE](LICENSE).
